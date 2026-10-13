@@ -1,0 +1,68 @@
+AI-POWERED MEDICAL SYMPTOM ANALYSIS
+=============================================
+
+1. Reported Symptoms:
+• Fever
+• Cough
+• Painful throat
+
+2. Patient Information:
+• Age: 22
+• Sex: Female
+• Duration: 2 days
+• Severity: Mild
+• Medical History: No known relevant condition
+• Medications: None
+• Allergies: None known
+
+3. Possible Conditions:
+• Common Cold: Fever, cough, and sore throat are common symptoms of a viral upper respiratory tract infection, also known as a cold.
+• Acute Pharyngitis: Painful throat and fever can be indicative of an acute infection of the pharynx, which may be caused by a virus or bacteria.
+
+4. Explanation:
+The possible conditions mentioned above are common causes of fever, cough, and painful throat. However, it's essential to note that only a qualified healthcare professional can provide a definitive diagnosis.
+
+5. Missing Information:
+To better understand the patient's symptoms and potential conditions, I would like to know:
+• What is the patient's level of discomfort when swallowing, speaking, or eating?
+• Has the patient experienced any recent exposure to others who have similar symptoms?
+• Have the patient's symptoms worsened or improved over time?
+• Does the patient have any underlying medical conditions, such as asthma or allergies?
+
+6. Follow-up Questions:
+• Can you provide more information about the patient's cough, such as whether it's productive (bringing up mucus) or non-productive?
+• Has the patient experienced any difficulty breathing, chest pain, or other concerning symptoms?
+
+7. Medical Attention Guidance:
+If the patient's symptoms worsen, or if they experience any of the following, it's essential to seek medical attention:
+• High fever (over 103°F)
+• Severe headache or stiff neck
+• Difficulty breathing or chest pain
+• Confusion or disorientation
+• Swollen lymph nodes or sore throat that worsens over time
+
+Please consult a healthcare professional for personalized advice and diagnosis.
+
+8. Disclaimer:
+This AI-generated response is intended for educational and informational purposes only. It is not a medical diagnosis and does not replace advice from a qualified healthcare professional.
+
+FOLLOW-UP QUESTIONS
+====================
+1. Can you describe the type of pain you're experiencing in your throat (e.g. sharp, dull, pressure-like)?
+2. How would you rate the severity of your cough (e.g. is it productive, dry, or do you experience any wheezing)?
+3. Have you noticed any other symptoms such as headache, fatigue, or difficulty swallowing?
+4. How long have you been experiencing the fever (is it constant or does it come and go)?
+5. Have you been exposed to anyone who has a similar illness or have you recently traveled to a new place?
+
+
+### 🚨 Medical Attention Guidance
+
+If symptoms are severe, rapidly worsening,
+or concerning, seek appropriate professional
+medical care.
+
+If there is a medical emergency, contact
+local emergency services or seek immediate
+professional medical attention.
+
+This system does not perform clinical triage.

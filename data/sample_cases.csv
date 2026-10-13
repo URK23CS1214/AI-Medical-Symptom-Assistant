@@ -1,0 +1,11 @@
+age,sex,symptoms,duration,severity
+22,Female,"Fever, cough, sore throat",2 days,Mild
+30,Male,"Headache, tiredness",1 day,Mild
+25,Female,"Cough, runny nose",3 days,Mild
+40,Male,"Fever, body pain, fatigue",2 days,Moderate
+35,Female,"Sore throat, cough",4 days,Moderate
+28,Male,"Fever, headache, chills",2 days,Moderate
+45,Female,"Cough, fever, weakness",5 days,Moderate
+20,Male,"Sore throat, runny nose",2 days,Mild
+32,Female,"Headache, nausea, tiredness",1 day,Mild
+50,Male,"Fever, cough, body pain",3 days,Moderate
